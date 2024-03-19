@@ -12,3 +12,4 @@ namespace ConsoleApp8
 }
 
 //adqwaqdoaqwsasa
+//keuksdu
